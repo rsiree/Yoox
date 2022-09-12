@@ -6,10 +6,10 @@ This website is based on the deisgner products. I have cloned some of its origin
 
 
 #### Deployment link:
-https://sleepy-villani-ecc144.netlify.app/
+https://yoox-fashion.netlify.app/
 
 #### Github 
-https://github.com/rsiree/Yoox_Clone/
+https://github.com/rsiree/Yoox
 
 #### Tech Stacks:
 
@@ -19,7 +19,7 @@ Frontend:
 3.	Javascript
 
 Backend:
-1.	Masai_school/api-moker for login and registration authentication
+1.	Reqres for login and registration authentication
 2.	Local Storage as website api is not available
 
 # Functionalities:
